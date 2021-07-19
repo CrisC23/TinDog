@@ -4,11 +4,12 @@
 
 }
 .shower{
+  display:flexbox
   width: 20%;
   transform: rotate(20deg);
   left: 60%;
   bottom:350px;
-
+  align-self: end;
 }
 /* features section*/
 
