@@ -17,7 +17,7 @@
   padding: 10px 15px;
   background-color: #ffff;
   position: relative;
-  z-index: 1;
+  z-index: 1em;
 
 }
 .feature-box{
