@@ -4,9 +4,8 @@
 
 }
 .shower{
-  width: 11%;
+  width: 20%;
   transform: rotate(20deg);
-  position: absolute;
   left: 60%;
   bottom:350px;
 
