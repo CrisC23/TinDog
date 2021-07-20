@@ -5,10 +5,10 @@
 }
 .shower{
   display:flexbox
-  width: 20%;
+  width: 10%;
   transform: rotate(20deg);
   left: 60%;
-  padding-top:100px;
+  padding-top: 100px;
   justify-content: flex-end;  
   
 
