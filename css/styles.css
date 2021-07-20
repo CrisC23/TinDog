@@ -40,8 +40,6 @@ h1,h2,h3,h4,h5,h6{
   font-family: 'Montserrat-black', sans-serif;
   line-height: 4rem;
   font-size: 3rem;
-  text-align:center;
-
 }
 
 p{
@@ -87,6 +85,7 @@ button{
 }
 .testimonial-text{
   text-align: right;
+  text-align:center;
 
 }
 .carousel-item{
