@@ -4,7 +4,7 @@
 
 }
 .shower{
-  display:flexbox
+/*   display:flexbox */
   width: 20%;
   transform: rotate(20deg);
   left: 60%;
