@@ -9,8 +9,8 @@
   transform: rotate(20deg);
   left: 60%;
   padding-top:100px;
-  align-self: center;
-  postiotion:relative;
+  justify-content: flex-end;  
+  
 
 }
 /* features section*/
