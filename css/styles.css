@@ -134,18 +134,3 @@ button{
 }
 
 
-/* Media Queries */
-
- @media (max-width: 900px) {
-
-    #title {
-        text-align: center;
-    }
-
-    .iphone-img {
-        position: static;
-        transform: rotate(0);
-    }
-    
-    }
-
