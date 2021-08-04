@@ -3,15 +3,12 @@
   padding-bottom: 50px;
 
 }
-.iphone.img{
-  display:flexbox
-  width: 10%;
-  transform: rotate(20deg);
-  left: 60%;
-  padding-top: 100px;
-  justify-content: flex-end;  
-  align-content:flex-end;
-
+.iphone-img {
+    position: absolute;
+    margin-top: 50px;
+    right: 30%;
+    transform: rotate(25deg);
+    width: 60%;
 }
 /* features section*/
 
