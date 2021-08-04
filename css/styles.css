@@ -135,3 +135,19 @@ button{
   padding-top: 35px;
   line-height: 2;
 }
+
+
+/* Media Queries */
+
+@media (max-width: 900px) {
+
+    #title {
+        text-align: center;
+    }
+
+    .iphone-img {
+        position: static;
+        transform: rotate(0);
+    }
+    
+    }
