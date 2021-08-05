@@ -5,10 +5,10 @@
 }
 .iphone-img {
     position: absolute;
-    margin-top: 50px;
+    margin-top: 20px;
     right: 30%;
     transform: rotate(25deg);
-    width: 300px;
+    width: 400px;
     padding-bottom:20px;
 }
 /* features section*/
